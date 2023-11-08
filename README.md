@@ -1,1 +1,1 @@
-# Audio-syc-LED
+# Audio Synchronization LED Display
